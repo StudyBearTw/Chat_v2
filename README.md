@@ -43,6 +43,3 @@ src/ ├── ClientApp.java ├── ClientGui.java ├── Client.java ├
 ## 注意事項
 - Server 必須先啟動並監聽，Client 才能連線。
 - 預設編碼為 UTF-16，請勿傳送特殊字元避免亂碼。
-
-## 聯絡作者
-如有問題請聯絡 [你的名字或email]。
